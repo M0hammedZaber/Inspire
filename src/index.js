@@ -4,10 +4,6 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const encodeUrl = require('encodeurl')
-const extractValues = require("extract-values");
-// const scraperjs = require('scraperjs'); << causing issues
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-
+import '../src/pages/home.css';
 // var assert = require('assert');
 // var quoteScraper = require('./');
 
