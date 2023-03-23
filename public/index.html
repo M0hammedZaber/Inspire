@@ -9,18 +9,23 @@
   <meta name="Inspirational Quotes Generator" content="Web site created using create-react-app" />
   <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
   <!-- link to stylesheets -->
-  <link rel="stylesheet" href="/src/App.css"> 
-  <link rel="stylesheet" href="/src/index.css"> 
-  <link rel="stylesheet" href="/src/css/button.css"> 
+  <link rel="stylesheet" href="/src/index.css">
+  <link rel="stylesheet" href="/src/App.css">
+  <link rel="stylesheet" href="/src/css/button.css">
   <title>Inspirational Quote Generator</title>
-    <!-- Links for the UIKit Library -->
-    <link rel="stylesheet" href="../src/css/uikit.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.6.22/css/uikit.min.css" />
+  <!-- Links for the UIKit Library -->
+  <link rel="stylesheet" href="../src/css/uikit.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.6.22/css/uikit.min.css" />
+  <img src="./inspireimg.jpeg" class="uk-align-center" alt="logo" />
 </head>
 
 <body>
-  <button id="refreshButton" onClick="window.location.reload();">Click here for inspiration!</button>
-  <div id="root"></div>
+  <div class="my-container">
+    <div class="uk-panel uk-panel-box uk-">
+      <button id="refreshButton" class="uk-align-center" onClick="window.location.reload();">Click here for inspiration!</button>
+    </div>
+    <div id="root"></div>
+  </div>
 </body>
 
 </html>
