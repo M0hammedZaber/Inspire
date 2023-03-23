@@ -19,13 +19,16 @@ Use 'npm start' to get started.
 
 ## Description <a name="toc-description"></a>
 
-
+Get daily inspiration with Inspire! Receive a motivational quote each day to uplift and empower you towards your goals. Start your day on a positive note!
 
 
 ## User Story <a name="toc-userstory"></a>
 
+As a... professional with a hectic schedule
 
+I want to... be motivated and energised instead of drained and uninspired...
 
+so that... I can achieve my goals.
 
 ## Screenshot <a name="toc-screenshot"></a>
 
@@ -45,4 +48,4 @@ This project is licensed under the MIT license.
 
 ## Link to deployed application <a name="toc-deploy"></a>
 
-You can find the application [here.]()
+You can find the deployed application [here.](https://inspire-today.netlify.app/)
