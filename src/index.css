@@ -18,10 +18,6 @@ code {
     monospace;
 }
 
-#app-logo {
-  margin-top: 50px;
-}
-
 @media screen and (max-with: 800px) {
 
   body {

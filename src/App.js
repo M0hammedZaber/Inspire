@@ -1,4 +1,5 @@
 import './App.css';
+import '../src/'
 
 // inspirational NPM that works and returns any random quote
 

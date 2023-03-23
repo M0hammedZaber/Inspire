@@ -32,7 +32,7 @@ so that... I can achieve my goals.
 
 ## Screenshot <a name="toc-screenshot"></a>
 
-![screenshot of the application]()
+![screenshot of the inspire application](./public/app-screenshot.png)
 
 ## Technologies used <a name="toc-technologies"></a>
 
